@@ -1,3 +1,3 @@
 # GenerativeAI_Study
-#uzi ule studying AI
+# uzi ule studying AI
 Generative AI Study
